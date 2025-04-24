@@ -29,10 +29,10 @@ global.info = {
 
 // Thumbnail 
 global.media = {
- profil: 'https://i.ibb.co/3Fh9V6p/avatar-contact.png',
+ profil: 'https://i.postimg.cc/JngNxCnh/tanjiro-kamado-demon-slayer-kimetsu-no-yaiba-4k-wallpaper-uhdpaper-com-231-2-a.jpg',
  did: 'https://telegra.ph/file/fdc1a8b08fe63520f4339.jpg',
  rules: 'https://telegra.ph/file/afcfa712bd09f4fcf027a.jpg',
- thumbnail: 'https://telegra.ph/file/161c0a22c03f7859c7599.jpg',
+ thumbnail: 'https://i.postimg.cc/brVC0nj7/giyu-demon-slayer-water-hashira-4k-wallpaper-uhdpaper-com-227-1-f.jpg',
  thumb: 'https://telegra.ph/file/161c0a22c03f7859c7599.jpg',
  logo: 'https://telegra.ph/file/161c0a22c03f7859c7599.jpg',
  unReg: 'https://telegra.ph/file/ef02d1fdd59082d05f08d.jpg',
